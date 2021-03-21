@@ -2,7 +2,7 @@
 
 # fontes ( onde e como pegar ) - link css - content-width-device-width
 
-# estilos globais - reset - variaveis
+# estilos globais - reset - variaveis - unidades relativas (rem)
 
 # tags semanticas
 
